@@ -18,14 +18,14 @@ export default {
   data() {
     return {
       images: [
-        { src: '../src/assets/cris-junior-mistyfullrework.jpg', alt: 'Image 1' },
-        { src: '../src/assets/cris-junior-nemesis.jpg', alt: 'Image 2' },
-        { src: '../src/assets/cris-junior-nijinrework.jpg', alt: 'Image 3' },
-        { src: '../src/assets/cris-junior-trezemod.jpg', alt: 'Image 4' },
-        { src: '../src/assets/cris-junior-yelanrework.jpg', alt: 'Image 5' },
-        { src: '../src/assets/cris-junior-meryl.jpg', alt: 'Image 6' },
-        { src: '../src/assets/cris-junior-dj.jpg', alt: 'Image 6' },
-        { src: '../src/assets/cris-junior-nami.jpg', alt: 'Image 6' },
+        { src: 'https://github.com/C-junior/khaoz-art-portfolio/blob/main/src/assets/cris-junior-dj.jpg', alt: 'Image 1' },
+        { src: 'https://github.com/C-junior/khaoz-art-portfolio/blob/main/src/assets/cris-junior-nemesis.jpg', alt: 'Image 2' },
+        { src: 'https://github.com/C-junior/khaoz-art-portfolio/blob/main/src/assets/cris-junior-nijinrework.jpg', alt: 'Image 3' },
+        { src: 'https://github.com/C-junior/khaoz-art-portfolio/blob/main/src/assets/cris-junior-trezemod.jpg', alt: 'Image 4' },
+        { src: 'https://github.com/C-junior/khaoz-art-portfolio/blob/main/src/assets/cris-junior-yelanrework.jpg', alt: 'Image 5' },
+        { src: 'https://github.com/C-junior/khaoz-art-portfolio/blob/main/src/assets/cris-junior-meryl.jpg', alt: 'Image 6' },
+        { src: 'https://github.com/C-junior/khaoz-art-portfolio/blob/main/src/assets/cris-junior-dj.jpg', alt: 'Image 6' },
+        { src: 'https://github.com/C-junior/khaoz-art-portfolio/blob/main/src/assets/cris-junior-nami.jpg', alt: 'Image 6' },
         
     
       
